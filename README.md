@@ -1,9 +1,9 @@
 # mood_counter
 
-📱 Flutter Mood Counter App
+📱 Flutter Mood Counter App : 
 A fun and interactive Flutter app that demonstrates the use of setState() by dynamically updating the UI. It features a counter, changing background colors, and expressive emojis based on the counter value.
 
-🔧 Features
+🔧 Features : 
 Tap the button to increase the counter
 
 Background color changes randomly on each tap
