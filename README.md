@@ -1,19 +1,22 @@
-# mood_changer
+# mood_counter
 
-A new Flutter project.
+📱 Flutter Mood Counter App
+A fun and interactive Flutter app that demonstrates the use of setState() by dynamically updating the UI. It features a counter, changing background colors, and expressive emojis based on the counter value.
 
-## Getting Started
+🔧 Features
+Tap the button to increase the counter
 
-This project is a starting point for a Flutter application.
+Background color changes randomly on each tap
 
-A few resources to get you started if this is your first Flutter project:
+Emoji updates to reflect mood based on the counter:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+😐 (neutral)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🙂 (happy)
+
+😄 (very happy)
+
+🤩 (super excited)
 
 Screenshots of the outputs are :
 ![Output](https://github.com/tanmay1240/assignment_3/blob/main/Screenshot%202025-06-20%20200031.png)]
